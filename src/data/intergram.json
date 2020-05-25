@@ -26,5 +26,19 @@
       "Svilenu bubu je kupio neko čije ime ima manje od 5 slova.",
       "Mia Miko je kupila nešto sa najmanjim brojem slova na bosanskom."
     ]
+  },
+  "32d5f1ca-405c-4bbd-b429-f8735e2f2748": {
+    "dimensions": ["Ime", "Patike", "Kais"],
+    "variables": {
+      "Ime": ["Zen", "Mia Miko", "Naida"],
+      "Patike": ["Plave", "Smedje", "Zute"],
+      "Kais": ["Plavi", "Smedji", "Zuti"]
+    },
+    "introduction": "",
+    "clues": [
+      "Svako od prijatelja ima patike i kais razlicite boje",
+      "Mia Miko nema plave patike",
+      "Naida ima zuti kais i nema plave patike"
+    ]
   }
 }

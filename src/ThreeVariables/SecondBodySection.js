@@ -16,7 +16,6 @@ const SecondBodySection = ({ integram, results }) => {
       )}
       <th>{dimension3Variable}</th>
       <Answers
-        variable={dimension3Variable}
         dimension={dimension2}
         integram={integram}
         results={results}

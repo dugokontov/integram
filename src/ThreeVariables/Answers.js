@@ -1,7 +1,7 @@
 import React from "react";
 import Answer from "./Answer";
 
-const Answers = ({ variable, dimension, integram, results, startIndex }) => {
+const Answers = ({ dimension, integram, results, startIndex }) => {
   const dimensionVariables = integram.variables[dimension];
   return dimensionVariables.map((dimensionVariable, index) => (
     <Answer

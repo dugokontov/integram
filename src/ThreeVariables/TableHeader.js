@@ -2,7 +2,7 @@ import React from "react";
 import VariableNames from "./VariableNames";
 
 const TableHeader = ({ intergram }) => {
-  const [dimension2, dimension3] = intergram.dimensions;
+  const [,dimension2, dimension3] = intergram.dimensions;
   const variables = intergram.variables;
   return (
     <thead>

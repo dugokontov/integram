@@ -1,0 +1,28 @@
+{
+  "dimensions": ["Drugari", "Bosanski", "Japanski"],
+  "variables": {
+    "Drugari": ["Naida", "Alina", "Tina", "Mia Miko", "David", "Zen"],
+    "Bosanski": [
+      "Trešnja",
+      "Bor",
+      "Bambus",
+      "Svilena buba",
+      "Kišobran",
+      "Šljiva"
+    ],
+    "Japanski": ["Matsu", "Kaiko", "Sakura", "Kasa", "Ume", "Take"]
+  },
+  "introduction": "Drugari su bili u posjeti Japanu i svako je kupio neki od japanskih simbola. Usput su i naučili kako se koji simbol izgovara na japanskom. Otkrijte šta su kupili drugari.",
+  "clues": [
+    "Tina je kupila nešto što na japanskom ima više od tri slova.",
+    "Bambus na japanskom ima više od tri a manje od pet slova.",
+    "Ni Zen ni Mia Miko nisu kupili Kaiko.",
+    "Naida je kupila Ume što nije svilena buba.",
+    "Alina je kupila trešnju što nije Take.",
+    "Kasa i Kišobran su isti pojmovi.",
+    "David nije kupio ništa što je biljka.",
+    "Trešnja na bosanskom i japanskom imaju isti broj slova.",
+    "Svilenu bubu je kupio neko čije ime ima manje od 5 slova.",
+    "Mia Miko je kupila nešto sa najmanjim brojem slova na bosanskom."
+  ]
+}

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.3378efb4.chunk.js",
-    "main.js.map": "/static/js/main.3378efb4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d570392b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d570392b.js.map",
-    "static/js/2.214812f1.chunk.js": "/static/js/2.214812f1.chunk.js",
-    "static/js/2.214812f1.chunk.js.map": "/static/js/2.214812f1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f75b68ea66895d7726b342be330583b6.js": "/precache-manifest.f75b68ea66895d7726b342be330583b6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.214812f1.chunk.js.LICENSE.txt": "/static/js/2.214812f1.chunk.js.LICENSE.txt"
+    "main.css": "/integram/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/integram/static/js/main.e5fbfeb9.chunk.js",
+    "main.js.map": "/integram/static/js/main.e5fbfeb9.chunk.js.map",
+    "runtime-main.js": "/integram/static/js/runtime-main.c6a1ea6e.js",
+    "runtime-main.js.map": "/integram/static/js/runtime-main.c6a1ea6e.js.map",
+    "static/js/2.214812f1.chunk.js": "/integram/static/js/2.214812f1.chunk.js",
+    "static/js/2.214812f1.chunk.js.map": "/integram/static/js/2.214812f1.chunk.js.map",
+    "index.html": "/integram/index.html",
+    "precache-manifest.495c022596051e6f4f95c2002f807bff.js": "/integram/precache-manifest.495c022596051e6f4f95c2002f807bff.js",
+    "service-worker.js": "/integram/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/integram/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.214812f1.chunk.js.LICENSE.txt": "/integram/static/js/2.214812f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d570392b.js",
+    "static/js/runtime-main.c6a1ea6e.js",
     "static/js/2.214812f1.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.3378efb4.chunk.js"
+    "static/js/main.e5fbfeb9.chunk.js"
   ]
 }

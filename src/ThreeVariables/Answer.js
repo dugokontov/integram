@@ -2,7 +2,6 @@ import React from "react";
 
 const Answer = ({ value, index }) => {
   const changeHash = () => {
-    console.log(value);
     const newValue = (Number(value) + 1) % 3;
     const hash = window.location.hash.slice(1);
     window.location.hash =

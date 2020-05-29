@@ -1,6 +1,24 @@
 import React from "react";
 
-const Answer = ({ value, index }) => {
+const removeHoverClass = () => {
+  document
+    .querySelectorAll(".hover")
+    .forEach((element) => element.classList.remove("hover"));
+};
+/**
+ * @param {MouseEvent} event
+ */
+const addHoverClass = (event) => {
+  const element = event.currentTarget;
+  const hoveredIndex = Array.from(
+    element.parentElement.querySelectorAll("td")
+  ).indexOf(element);
+  document
+    .querySelectorAll(`table td:nth-of-type(${hoveredIndex + 1})`)
+    .forEach((td) => td.classList.add("hover"));
+};
+
+const Answer = ({ value, index, ...rest }) => {
   const changeHash = () => {
     const newValue = (Number(value) + 1) % 3;
     const hash = window.location.hash.slice(1);
@@ -23,7 +41,7 @@ const Answer = ({ value, index }) => {
   }
 
   return (
-    <td>
+    <td {...rest} onMouseEnter={addHoverClass} onMouseLeave={removeHoverClass}>
       <button onClick={changeHash}>{answer}</button>
     </td>
   );

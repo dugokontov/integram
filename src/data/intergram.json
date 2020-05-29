@@ -28,17 +28,17 @@
     ]
   },
   "32d5f1ca-405c-4bbd-b429-f8735e2f2748": {
-    "dimensions": ["Ime", "Patike", "Kais"],
+    "dimensions": ["Ime", "Patike", "Kaiš"],
     "variables": {
       "Ime": ["Zen", "Mia Miko", "Naida"],
-      "Patike": ["Plave", "Smedje", "Zute"],
-      "Kais": ["Plavi", "Smedji", "Zuti"]
+      "Patike": ["Plave", "Smeđe", "Žute"],
+      "Kaiš": ["Plavi", "Smeđi", "Žuti"]
     },
     "introduction": "",
     "clues": [
-      "Svako od prijatelja ima patike i kais razlicite boje",
+      "Svako od prijatelja ima patike i kaiš različite boje",
       "Mia Miko nema plave patike",
-      "Naida ima zuti kais i nema plave patike"
+      "Naida ima žuti kaiš i nema plave patike"
     ]
   }
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5865a6a042ecced6220c2e016f61325b",
+    "revision": "1e4482e68384cb6cfe3027686ae5d9ca",
     "url": "/integram/index.html"
   },
   {
-    "revision": "0e03b1cc6d4280551e8e",
+    "revision": "2a14d60781c32f642941",
     "url": "/integram/static/css/main.072619b8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/integram/static/js/2.82aa341e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e03b1cc6d4280551e8e",
-    "url": "/integram/static/js/main.682d1815.chunk.js"
+    "revision": "2a14d60781c32f642941",
+    "url": "/integram/static/js/main.3f7f202e.chunk.js"
   },
   {
     "revision": "0366a4f671442320c642",

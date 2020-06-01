@@ -40,15 +40,12 @@
       "Mia Miko nema plave patike",
       "Naida ima žuti kaiš i nema plave patike"
     ]
-  }
-}
-
-{
+  },
   "915ef98a-5710-445c-89c7-5db472439873": {
     "dimensions": ["Prijatelji", "Sport", "Igračka"],
     "variables": {
-      "Drugari": ["Boris", "Hrvoje", "Alma", "Azra", "Lejla", "Adnan"],
-      "Bosanski": [
+      "Prijatelji": ["Boris", "Hrvoje", "Alma", "Azra", "Lejla", "Adnan"],
+      "Sport": [
         "Košarka",
         "Nogomet",
         "Biciklizam",
@@ -68,21 +65,7 @@
       "Lejla i Hrvoje nemaju autiće niti treniraju biciklizam.",
       "Adnan voli svoju loptu a ne trenira nogomet.",
       "Osoba koja voli biciklizam voli i romobil.",
-      "Azra trenira u bazenu.",
-     ]
-  },
-  "32d5f1ca-405c-4bbd-b429-f8735e2f2748": {
-    "dimensions": ["Ime", "Patike", "Kaiš"],
-    "variables": {
-      "Ime": ["Zen", "Mia Miko", "Naida"],
-      "Patike": ["Plave", "Smeđe", "Žute"],
-      "Kaiš": ["Plavi", "Smeđi", "Žuti"]
-    },
-    "introduction": "",
-    "clues": [
-      "Svako od prijatelja ima patike i kaiš različite boje",
-      "Mia Miko nema plave patike",
-      "Naida ima žuti kaiš i nema plave patike"
+      "Azra trenira u bazenu."
     ]
   }
 }

@@ -40,5 +40,32 @@
       "Mia Miko nema plave patike",
       "Naida ima žuti kaiš i nema plave patike"
     ]
+  },
+  "915ef98a-5710-445c-89c7-5db472439873": {
+    "dimensions": ["Prijatelji", "Sport", "Igračka"],
+    "variables": {
+      "Prijatelji": ["Boris", "Hrvoje", "Alma", "Azra", "Lejla", "Adnan"],
+      "Sport": [
+        "Košarka",
+        "Nogomet",
+        "Biciklizam",
+        "Džudo",
+        "Tenis",
+        "Plivanje"
+      ],
+      "Igračka": ["Autić", "Lopta", "Računar", "Romobil", "Olovka", "Šator"]
+    },
+    "introduction": "Šest prijatelja, svako ima svoj sport i svoju omiljenu igračku. Otkrijte detalje.",
+    "clues": [
+      "Ženska osoba koja voli džudo ima svoj šator.",
+      "Osoba koja igra košarku ne voli autiće.",
+      "Alma vozi romobil i ne igra tenis.",
+      "Boris se igra vozićem i ne igra košarku.",
+      "Muška osoba koja igra nogomet voli računare.",
+      "Lejla i Hrvoje nemaju autiće niti treniraju biciklizam.",
+      "Adnan voli svoju loptu a ne trenira nogomet.",
+      "Osoba koja voli biciklizam voli i romobil.",
+      "Azra trenira u bazenu."
+    ]
   }
 }

@@ -68,4 +68,33 @@
       "Azra trenira u bazenu."
     ]
   }
+    "f6b292c7-0a1d-484c-935d-e9526a7f25e8": {
+    "dimensions": ["Prijatelji", "Pseudonim", "Knjiga"],
+    "variables": {
+      "Prijatelji": ["Irena", "Ogi", "Haris", "Andrea", "Danko", "Belma"],
+      "Pseudonim": [
+        "Thor",
+        "Finn",
+        "Anansi",
+        "Maui",
+        "Lludd",
+        "Bhubesi"
+      ],
+      "Knjiga": ["Ptice", "Kornjače", "Majmuni", "Lisice", "Orlovi", "Lavovi"]
+    },
+    "introduction": "Prijatelji su odlučili pisati knjige o životinjama. Nisu željeli otkriti svoje pravo ime pa su pisali pod pseudonimima. Otkrijte ko je napisao koju knjigu u pod kojim pseudonimom.",
+    "clues": [
+      "Ogijev pseudonim ima više od pet slova.",
+      "Belma i Irena nisu pisali o kornjačama.",
+      "Thor je pisao o životinjama koje počinju slovom L.",
+      "Danko nije Maui niti je pisao o majmunima.",
+      "Anansi i Lludd nisu pisali o madvjedima.",
+      "Finn je zapravo Haris, i nije pisao o orlovima.",
+      "Andrea je pisala o životinjama čije zadnje slovo nije I.",
+      "Bhubesi je pseudonim muške osobe koja je pisala o Kornjačama.",
+      "Lludd je ženska osoba sa manje od 6 slova u imenu."
+      "Irenin pseudonim ima slovo O."
+      "Ogi je pisao o majmunima."
+    ]
+  }
 }
